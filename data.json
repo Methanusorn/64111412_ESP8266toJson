@@ -1,0 +1,82 @@
+{
+  "senser": [
+    {
+      "humidity": 95,
+      "temperature": 23.89999962,
+      "dateTime": "2023-11-09 23:46:01",
+      "id": 1
+    },
+    {
+      "humidity": 95,
+      "temperature": 24,
+      "dateTime": "2023-11-09 23:46:49",
+      "id": 2
+    },
+    {
+      "humidity": 95,
+      "temperature": 24,
+      "dateTime": "2023-11-09 23:47:04",
+      "id": 3
+    },
+    {
+      "humidity": 95,
+      "temperature": 24,
+      "dateTime": "2023-11-09 23:47:19",
+      "id": 4
+    },
+    {
+      "humidity": 95,
+      "temperature": 24,
+      "dateTime": "2023-11-09 23:47:34",
+      "id": 5
+    },
+    {
+      "humidity": 95,
+      "temperature": 24.10000038,
+      "dateTime": "2023-11-09 23:47:50",
+      "id": 6
+    },
+    {
+      "humidity": 95,
+      "temperature": 24.10000038,
+      "dateTime": "2023-11-09 23:48:06",
+      "id": 7
+    },
+    {
+      "humidity": 95,
+      "temperature": 24.39999962,
+      "dateTime": "2023-11-09 23:48:21",
+      "id": 8
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.39999962,
+      "dateTime": "2023-11-09 23:48:36",
+      "id": 9
+    },
+    {
+      "humidity": 95,
+      "temperature": 26.60000038,
+      "dateTime": "2023-11-09 23:48:52",
+      "id": 10
+    },
+    {
+      "humidity": 95,
+      "temperature": 26,
+      "dateTime": "2023-11-09 23:49:07",
+      "id": 11
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.60000038,
+      "dateTime": "2023-11-09 23:49:22",
+      "id": 12
+    },
+    {
+      "humidity": 95,
+      "temperature": 25.39999962,
+      "dateTime": "2023-11-09 23:49:38",
+      "id": 13
+    }
+  ]
+}
